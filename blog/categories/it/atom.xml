@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: It | My Octopress Blog]]></title>
+  <link href="http://boblam.github.io/blog/categories/it/atom.xml" rel="self"/>
+  <link href="http://boblam.github.io/"/>
+  <updated>2015-05-05T12:41:11+08:00</updated>
+  <id>http://boblam.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[firstBlog]]></title>
+    <link href="http://boblam.github.io/blog/2015/05/05/firstblog/"/>
+    <updated>2015-05-05T12:31:30+08:00</updated>
+    <id>http://boblam.github.io/blog/2015/05/05/firstblog</id>
+    <content type="html"><![CDATA[<h2>Welcome to MarkdownPad 2</h2>
+
+<p><strong>MarkdownPad</strong> is a full-featured Markdown editor for Windows.</p>
+
+<h3>Built exclusively for Markdown</h3>
+
+<p>The first time to learn markdown ,and use it to write my blog.</p>
+]]></content>
+  </entry>
+  
+</feed>
